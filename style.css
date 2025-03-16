@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+h1 {
+    color: #333;
+}
+.album {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px auto;
+    width: 300px;
+    background-color: #fff;
+}
+.album img {
+    width: 100%;
+}
+.album a {
+    display: block;
+    padding: 10px;
+    background: green;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+}
